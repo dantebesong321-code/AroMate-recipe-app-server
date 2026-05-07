@@ -6,42 +6,53 @@
       "description": "Low-carb alternative to pasta.",
       "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141",
       "ingredients": [
-        { "name": "Zucchini", "quantity": "2" },
-        { "name": "Pesto", "quantity": "3 tbsp" }
+        "• 2 Zucchini",
+        "• 3 tbsp Pesto",
+        "• 1 tbsp Olive oil",
+        "• Salt and pepper to taste"
       ],
       "steps": [
-        "Spiralize zucchini.",
-        "Heat lightly in pan.",
-        "Add pesto and mix."
+        "• Wash and trim the ends of the zucchini, then use a spiralizer to create noodle-like strands.",
+        "• Heat a non-stick pan over medium heat and add a small amount of olive oil if desired.",
+        "• Add the zucchini noodles to the pan and sauté for 2–3 minutes until slightly softened but not mushy.",
+        "• Remove from heat and stir in the pesto until evenly coated.",
+        "• Serve immediately, optionally topped with grated cheese or nuts."
       ],
       "cookingTime": "15",
       "difficulty": "easy",
-      "tags": ["low-carb", "keto"],
-      "servings": "2",
-      "status": "published",
-      "isPublic": "true",
-      "createdAt": "2026-05-01T10:00:00Z",
-      "updatedAt": "2026-05-01T10:00:00Z",
-      "publishedAt": "2026-05-01T10:30:00Z"
+      "tags": [
+        "low-carb",
+        "keto"
+      ],
+      "servings": "2"
     },
     {
       "id": "2",
       "title": "Avocado Egg Bowl",
-      "description": "Healthy breakfast idea.",
       "image": "https://images.unsplash.com/photo-1546069901-eacef0df6022",
-      "ingredients": [
-        { "name": "Avocado", "quantity": "1" },
-        { "name": "Eggs", "quantity": "2" }
-      ],
-      "steps": ["Boil eggs.", "Slice avocado.", "Combine in bowl."],
-      "cookingTime": "10",
+      "description": "Healthy breakfast idea.",
       "difficulty": "easy",
-      "tags": ["breakfast", "quick"],
-      "servings": "1",
-      "status": "draft",
-      "isPublic": "false",
-      "createdAt": "2026-05-02T10:00:00Z",
-      "updatedAt": "2026-05-02T10:00:00Z"
+      "cookingTime": "15",
+      "ingredients": [
+        "• 2 Eggs",
+        "• 1 Avocado",
+        "• Salt and pepper to taste",
+        "• Chili flakes (optional)",
+        "• Olive oil (optional)"
+      ],
+      "steps": [
+        "• Place eggs in a pot, cover with water, and bring to a boil.",
+        "• Cook for 8–10 minutes for hard-boiled eggs.",
+        "• Transfer eggs to cold water, peel, and slice into halves or quarters.",
+        "• Cut the avocado in half, remove the pit, and slice or cube the flesh.",
+        "• Arrange the avocado and eggs in a bowl.",
+        "• Season with salt, pepper, and optional toppings like chili flakes or olive oil before serving."
+      ],
+      "tags": [
+        "breakfast",
+        "healthy"
+      ],
+      "servings": "1"
     },
     {
       "id": "3",
@@ -49,49 +60,101 @@
       "description": "Light and fresh salad.",
       "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
       "ingredients": [
-        { "name": "Chicken", "quantity": "200g" },
-        { "name": "Lettuce", "quantity": "1 cup" }
+        "• 200g Chicken breast",
+        "• 1 cup Lettuce",
+        "• Salt and pepper to taste",
+        "• Spices or marinade of choice",
+        "• Dressing of choice"
       ],
-      "steps": ["Grill chicken.", "Chop vegetables.", "Mix together."],
+      "steps": [
+        "• Season the chicken with salt, pepper, and optional spices or marinade.",
+        "• Preheat a grill or grill pan over medium-high heat and cook the chicken for 5–7 minutes per side until fully cooked.",
+        "• Let the chicken rest for a few minutes, then slice into strips.",
+        "• Wash and chop the lettuce and any additional vegetables.",
+        "• Combine everything in a bowl and toss with your favorite dressing before serving."
+      ],
       "cookingTime": "20",
       "difficulty": "easy",
-      "tags": ["healthy", "quick"],
-      "servings": "2",
-      "status": "published",
-      "isPublic": "true",
-      "createdAt": "2026-05-03T10:00:00Z",
-      "updatedAt": "2026-05-03T10:00:00Z",
-      "publishedAt": "2026-05-03T10:30:00Z"
-    }
-  ],
-
-  "reviews": [
-    {
-      "id": "1",
-      "recipeId": "1",
-      "rating": "5",
-      "comment": "Simple and delicious!",
-      "createdAt": "2026-05-02T12:00:00Z"
+      "tags": [
+        "healthy",
+        "quick"
+      ],
+      "servings": "2"
     },
     {
-      "id": "2",
-      "recipeId": "1",
-      "rating": "4",
-      "comment": "Easy to make.",
-      "createdAt": "2026-05-02T13:00:00Z"
-    }
-  ],
-
-  "bookmarks": [
-    {
-      "id": "1",
-      "recipeId": "1",
-      "createdAt": "2026-05-02T12:00:00Z"
+      "id": "4",
+      "title": "Banana Oat Pancakes",
+      "description": "Simple and healthy pancakes.",
+      "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93",
+      "ingredients": [
+        "• 1 Banana",
+        "• 1 cup Oats",
+        "• 2 Eggs",
+        "• Oil or butter for greasing"
+      ],
+      "steps": [
+        "• Add banana, oats, and eggs to a blender and blend until smooth batter forms.",
+        "• Heat a non-stick pan over medium heat and lightly grease it.",
+        "• Pour small portions of batter onto the pan to form pancakes.",
+        "• Cook for 2–3 minutes until bubbles form, then flip and cook another 2 minutes.",
+        "• Serve warm with toppings like fruit, honey, or yogurt."
+      ],
+      "cookingTime": "15",
+      "difficulty": "easy",
+      "tags": [
+        "breakfast",
+        "healthy"
+      ],
+      "servings": "2"
     },
     {
-      "id": "2",
-      "recipeId": "3",
-      "createdAt": "2026-05-03T16:00:00Z"
+      "id": "5",
+      "title": "Tomato Basil Soup",
+      "image": "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d",
+      "description": "Warm and comforting soup.",
+      "difficulty": "easy",
+      "cookingTime": "30",
+      "ingredients": [
+        "• 4 large Tomatoes",
+        "• 2 cloves Garlic",
+        "• Fresh basil leaves",
+        "• 1 tbsp Olive oil",
+        "• Salt and pepper to taste"
+      ],
+      "steps": [
+        "• Chop tomatoes and mince the garlic.",
+        "• Heat oil in a pot over medium heat and sauté garlic until fragrant.",
+        "• Add tomatoes and cook for 10–15 minutes until softened.",
+        "• Blend the mixture until smooth using a blender or immersion blender.",
+        "• Return to heat, add basil, and simmer for 5 minutes. Season to taste before serving."
+      ],
+      "tags": [
+        "soup",
+        "comfort food"
+      ],
+      "servings": "2"
+    },
+    {
+      "title": "Beef Stir Fry",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&h=600&fit=crop",
+      "description": "Quick and flavorful stir fry.",
+      "difficulty": "medium",
+      "cookingTime": "20",
+      "steps": [
+        "• Slice the beef thinly against the grain for tenderness.",
+        "• Heat oil in a wok or pan over high heat.",
+        "• Add bell peppers and stir-fry for 2–3 minutes until slightly tender.",
+        "• Add beef and cook quickly, stirring constantly until browned.",
+        "• Pour in soy sauce, mix well, and cook for another 1–2 minutes before serving."
+      ],
+      "ingredients": [
+        "• 200g Beef, thinly sliced",
+        "• 1 cup Bell peppers",
+        "• 2 tbsp Soy sauce",
+        "• 1 tbsp Oil",
+        "• Salt and pepper to taste"
+      ],
+      "id": "6"
     }
   ]
 }
