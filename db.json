@@ -20,10 +20,7 @@
       ],
       "cookingTime": "15",
       "difficulty": "easy",
-      "tags": [
-        "low-carb",
-        "keto"
-      ],
+      "tags": ["low-carb", "keto"],
       "servings": "2"
     },
     {
@@ -48,10 +45,7 @@
         "• Arrange the avocado and eggs in a bowl.",
         "• Season with salt, pepper, and optional toppings like chili flakes or olive oil before serving."
       ],
-      "tags": [
-        "breakfast",
-        "healthy"
-      ],
+      "tags": ["breakfast", "healthy"],
       "servings": "1"
     },
     {
@@ -75,10 +69,7 @@
       ],
       "cookingTime": "20",
       "difficulty": "easy",
-      "tags": [
-        "healthy",
-        "quick"
-      ],
+      "tags": ["healthy", "quick"],
       "servings": "2"
     },
     {
@@ -101,10 +92,7 @@
       ],
       "cookingTime": "15",
       "difficulty": "easy",
-      "tags": [
-        "breakfast",
-        "healthy"
-      ],
+      "tags": ["breakfast", "healthy"],
       "servings": "2"
     },
     {
@@ -128,10 +116,7 @@
         "• Blend the mixture until smooth using a blender or immersion blender.",
         "• Return to heat, add basil, and simmer for 5 minutes. Season to taste before serving."
       ],
-      "tags": [
-        "soup",
-        "comfort food"
-      ],
+      "tags": ["soup", "comfort food"],
       "servings": "2"
     },
     {
@@ -155,6 +140,80 @@
         "• Salt and pepper to taste"
       ],
       "id": "6"
-    }
+    },
+    [
+      {
+        "id": "7",
+        "title": "Greek Yogurt Parfait",
+        "description": "Refreshing and protein-packed snack or breakfast.",
+        "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777",
+        "ingredients": [
+          "• 1 cup Greek yogurt",
+          "• 1/2 cup Granola",
+          "• 1/2 cup Mixed berries",
+          "• 1 tbsp Honey"
+        ],
+        "steps": [
+          "• Wash and prepare the berries if needed.",
+          "• Add half of the Greek yogurt into a glass or bowl.",
+          "• Layer with granola and mixed berries.",
+          "• Repeat the layers with the remaining yogurt, berries, and granola.",
+          "• Drizzle honey on top and serve immediately."
+        ],
+        "cookingTime": "10",
+        "difficulty": "easy",
+        "tags": ["breakfast", "healthy", "quick"],
+        "servings": "1"
+      },
+      {
+        "id": "8",
+        "title": "Garlic Shrimp Rice Bowl",
+        "description": "Simple rice bowl with juicy garlic shrimp.",
+        "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=800&h=600&fit=crop",
+        "ingredients": [
+          "• 200g Shrimp, peeled and deveined",
+          "• 1 cup Cooked rice",
+          "• 2 cloves Garlic",
+          "• 1 tbsp Butter",
+          "• Salt and pepper to taste"
+        ],
+        "steps": [
+          "• Mince the garlic and season the shrimp with salt and pepper.",
+          "• Heat butter in a pan over medium heat.",
+          "• Add garlic and cook until fragrant.",
+          "• Add shrimp and cook for 2–3 minutes per side until pink and fully cooked.",
+          "• Serve the garlic shrimp over warm rice."
+        ],
+        "cookingTime": "20",
+        "difficulty": "easy",
+        "tags": ["seafood", "quick"],
+        "servings": "2"
+      },
+      {
+        "id": "9",
+        "title": "Veggie Omelette",
+        "description": "Colorful and nutritious omelette.",
+        "image": "https://images.unsplash.com/photo-1510693206972-df098062cb71",
+        "ingredients": [
+          "• 3 Eggs",
+          "• 1/4 cup Bell peppers",
+          "• 1/4 cup Spinach",
+          "• 2 tbsp Cheese",
+          "• Salt and pepper to taste"
+        ],
+        "steps": [
+          "• Chop the bell peppers and spinach into small pieces.",
+          "• Beat the eggs in a bowl and season with salt and pepper.",
+          "• Heat a non-stick pan over medium heat and lightly grease it.",
+          "• Pour in the eggs and cook for 1–2 minutes.",
+          "• Add vegetables and cheese to one side of the omelette.",
+          "• Fold the omelette in half and cook until fully set before serving."
+        ],
+        "cookingTime": "15",
+        "difficulty": "easy",
+        "tags": ["breakfast", "healthy", "vegetarian"],
+        "servings": "1"
+      }
+    ]
   ]
 }
