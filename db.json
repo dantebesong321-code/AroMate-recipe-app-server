@@ -120,6 +120,7 @@
       "servings": "2"
     },
     {
+      "id": "6",
       "title": "Beef Stir Fry",
       "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&h=600&fit=crop",
       "description": "Quick and flavorful stir fry.",
@@ -138,8 +139,7 @@
         "• 2 tbsp Soy sauce",
         "• 1 tbsp Oil",
         "• Salt and pepper to taste"
-      ],
-      "id": "6"
+      ]
     },
     [
       {
