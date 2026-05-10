@@ -20,8 +20,25 @@
       ],
       "cookingTime": "15",
       "difficulty": "easy",
-      "tags": ["low-carb", "keto"],
-      "servings": "2"
+      "tags": [
+        "low-carb",
+        "keto",
+        "lunch",
+        "dinner"
+      ],
+      "servings": "2",
+      "reviews": [
+        {
+          "user": "Anonymous",
+          "rating": "4",
+          "comment": "Super fresh and easy to make!"
+        },
+        {
+          "user": "Liam",
+          "rating": "4",
+          "comment": "Great low-carb meal option."
+        }
+      ]
     },
     {
       "id": "2",
@@ -45,8 +62,23 @@
         "• Arrange the avocado and eggs in a bowl.",
         "• Season with salt, pepper, and optional toppings like chili flakes or olive oil before serving."
       ],
-      "tags": ["breakfast", "healthy"],
-      "servings": "1"
+      "tags": [
+        "healthy",
+        "breakfast"
+      ],
+      "servings": "1",
+      "reviews": [
+        {
+          "user": "Sophia",
+          "rating": "5",
+          "comment": "Perfect quick breakfast."
+        },
+        {
+          "user": "Noah",
+          "rating": "4",
+          "comment": "Simple but really filling."
+        }
+      ]
     },
     {
       "id": "3",
@@ -69,20 +101,33 @@
       ],
       "cookingTime": "20",
       "difficulty": "easy",
-      "tags": ["healthy", "quick"],
-      "servings": "2"
+      "tags": [
+        "healthy",
+        "quick",
+        "lunch",
+        "dinner"
+      ],
+      "servings": "2",
+      "reviews": [
+        {
+          "user": "Olivia",
+          "rating": "5",
+          "comment": "Loved how fresh this tasted."
+        },
+        {
+          "user": "Ethan",
+          "rating": "4",
+          "comment": "Easy weeknight dinner."
+        }
+      ]
     },
     {
       "id": "4",
-      "title": "Banana Oat Pancakes",
-      "description": "Simple and healthy pancakes.",
+      "title": "Banana Oat Pancakes berries",
       "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93",
-      "ingredients": [
-        "• 1 Banana",
-        "• 1 cup Oats",
-        "• 2 Eggs",
-        "• Oil or butter for greasing"
-      ],
+      "description": "Simple and healthy pancakes.",
+      "difficulty": "easy",
+      "cookingTime": "15",
       "steps": [
         "• Add banana, oats, and eggs to a blender and blend until smooth batter forms.",
         "• Heat a non-stick pan over medium heat and lightly grease it.",
@@ -90,10 +135,29 @@
         "• Cook for 2–3 minutes until bubbles form, then flip and cook another 2 minutes.",
         "• Serve warm with toppings like fruit, honey, or yogurt."
       ],
-      "cookingTime": "15",
-      "difficulty": "easy",
-      "tags": ["breakfast", "healthy"],
-      "servings": "2"
+      "ingredients": [
+        "• 1 Banana",
+        "• 1 cup Oats",
+        "• 2 Eggs",
+        "• Oil or butter for greasing"
+      ],
+      "tags": [
+        "breakfast",
+        "healthy"
+      ],
+      "servings": "2",
+      "reviews": [
+        {
+          "user": "Mia",
+          "rating": "5",
+          "comment": "Kids loved these pancakes!"
+        },
+        {
+          "user": "James",
+          "rating": "4",
+          "comment": "Healthy and surprisingly tasty."
+        }
+      ]
     },
     {
       "id": "5",
@@ -116,8 +180,25 @@
         "• Blend the mixture until smooth using a blender or immersion blender.",
         "• Return to heat, add basil, and simmer for 5 minutes. Season to taste before serving."
       ],
-      "tags": ["soup", "comfort food"],
-      "servings": "2"
+      "tags": [
+        "soup",
+        "comfort food",
+        "lunch",
+        "dinner"
+      ],
+      "servings": "2",
+      "reviews": [
+        {
+          "user": "Charlotte",
+          "rating": "5",
+          "comment": "Very comforting on a cold day."
+        },
+        {
+          "user": "Lucas",
+          "rating": "4",
+          "comment": "Fresh basil made a big difference."
+        }
+      ]
     },
     {
       "id": "6",
@@ -139,9 +220,26 @@
         "• 2 tbsp Soy sauce",
         "• 1 tbsp Oil",
         "• Salt and pepper to taste"
+      ],
+      "tags": [
+        "quick",
+        "dinner",
+        "lunch"
+      ],
+      "servings": "2",
+      "reviews": [
+        {
+          "user": "Henry",
+          "rating": "5",
+          "comment": "Restaurant-quality flavor."
+        },
+        {
+          "user": "Amelia",
+          "rating": "4",
+          "comment": "Fast and satisfying meal."
+        }
       ]
     },
-
     {
       "id": "7",
       "title": "Greek Yogurt Parfait",
@@ -162,8 +260,24 @@
       ],
       "cookingTime": "10",
       "difficulty": "easy",
-      "tags": ["breakfast", "healthy", "quick"],
-      "servings": "1"
+      "tags": [
+        "breakfast",
+        "healthy",
+        "quick"
+      ],
+      "servings": "1",
+      "reviews": [
+        {
+          "user": "Ella",
+          "rating": "5",
+          "comment": "Perfect healthy breakfast."
+        },
+        {
+          "user": "Benjamin",
+          "rating": "4",
+          "comment": "Loved the berry crunch combo."
+        }
+      ]
     },
     {
       "id": "8",
@@ -186,8 +300,25 @@
       ],
       "cookingTime": "20",
       "difficulty": "easy",
-      "tags": ["seafood", "quick"],
-      "servings": "2"
+      "tags": [
+        "seafood",
+        "quick",
+        "lunch",
+        "dinner"
+      ],
+      "servings": "2",
+      "reviews": [
+        {
+          "user": "Harper",
+          "rating": "5",
+          "comment": "Shrimp came out juicy and flavorful."
+        },
+        {
+          "user": "Daniel",
+          "rating": "4",
+          "comment": "Very easy weeknight recipe."
+        }
+      ]
     },
     {
       "id": "9",
@@ -211,8 +342,24 @@
       ],
       "cookingTime": "15",
       "difficulty": "easy",
-      "tags": ["breakfast", "healthy", "vegetarian"],
-      "servings": "1"
+      "tags": [
+        "breakfast",
+        "healthy",
+        "vegetarian"
+      ],
+      "servings": "1",
+      "reviews": [
+        {
+          "user": "Grace",
+          "rating": "5",
+          "comment": "Healthy and delicious breakfast."
+        },
+        {
+          "user": "Michael",
+          "rating": "4",
+          "comment": "Easy to customize with veggies."
+        }
+      ]
     }
   ]
 }
